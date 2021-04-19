@@ -1,4 +1,4 @@
-## Sistema gerenciados de Livros
+## Sistema gerenciador de Livros
 
 O projeto é um CRUD simples de acordo com as expecificações abaixo:
 
